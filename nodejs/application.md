@@ -9,6 +9,9 @@
 - [vercel/**pkg**](https://github.com/vercel/pkg) - Package your Node.js project into an executable. **`cross-platform`** **`desktop`** **`standalone`**  
   ![](https://img.shields.io/github/stars/vercel/pkg?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/vercel/pkg?style=social&label=Update)
+  - [yao-pkg/**pkg**](https://github.com/yao-pkg/pkg) - Package your Node.js project into an executable. **`cross-platform`** **`desktop`** **`standalone`**  
+    ![](https://img.shields.io/github/stars/yao-pkg/pkg?style=social&label=Star)
+    ![](https://img.shields.io/github/last-commit/yao-pkg/pkg?style=social&label=Update)
 - [astracompiler/**cli**](https://github.com/astracompiler/cli) - Fast, reliable and easy-to-use js-to-exe compiler. **`desktop`** **`standalone`**  
   ![](https://img.shields.io/github/stars/astracompiler/cli?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/astracompiler/cli?style=social&label=Update)
