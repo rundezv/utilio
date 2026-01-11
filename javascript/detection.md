@@ -15,3 +15,6 @@
 - [wooorm/**franc**](https://github.com/wooorm/franc) - Natural language detection. **`language`**  
   ![](https://img.shields.io/github/stars/wooorm/franc?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/wooorm/franc?style=social&label=Update)
+- [sindresorhus/**is-online**](https://github.com/sindresorhus/is-online) - Check if the internet connection is up. **`network`**  
+  ![](https://img.shields.io/github/stars/sindresorhus/is-online?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/is-online?style=social&label=Update)
