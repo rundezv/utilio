@@ -21,3 +21,6 @@
 - [ehmicky/**wild-wild-path**](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexps. **`object`**  
   ![](https://img.shields.io/github/stars/ehmicky/wild-wild-path?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/ehmicky/wild-wild-path?style=social&label=Update)
+- [broofa/**mime**](https://github.com/broofa/mime) - Mime types for JavaScript. **`file`**  
+  ![](https://img.shields.io/github/stars/broofa/mime?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/broofa/mime?style=social&label=Update)
