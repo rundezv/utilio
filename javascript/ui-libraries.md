@@ -84,3 +84,6 @@
 - [fulldotdev/**ui**](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites. **`tailwind`** **`astro`**  
   ![](https://img.shields.io/github/stars/fulldotdev/ui?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fulldotdev/ui?style=social&label=Update)
+- [SikandarJODD/**svelte-animations**](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion. **`tailwind`** **`svelte`**  
+  ![](https://img.shields.io/github/stars/SikandarJODD/svelte-animations?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/SikandarJODD/svelte-animations?style=social&label=Update)
