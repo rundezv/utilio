@@ -1,4 +1,4 @@
-# Utility
+# Utils
 
 - [sindresorhus/**pretty-bytes**](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: 1337 → 1.34 kB. **`number`**  
   ![](https://img.shields.io/github/stars/sindresorhus/pretty-bytes?style=social&label=Star)
