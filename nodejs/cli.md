@@ -21,3 +21,6 @@
 - [bombshell-dev/**clack**](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps. **`api`** **`parser`** **`prompt`**  
   ![](https://img.shields.io/github/stars/bombshell-dev/clack?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/bombshell-dev/clack?style=social&label=Update)
+- [antonmedv/**srf**](https://github.com/antonmedv/srf) - A file server. **`server`**  
+  ![](https://img.shields.io/github/stars/antonmedv/srf?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/antonmedv/srf?style=social&label=Update)
