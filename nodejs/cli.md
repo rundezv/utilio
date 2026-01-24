@@ -1,4 +1,4 @@
-# Command Line Interface
+# CLI (Command Line Interface)
 
 - [goenning/**google-indexing-script**](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours.  
   ![](https://img.shields.io/github/stars/goenning/google-indexing-script?style=social&label=Star)
