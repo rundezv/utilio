@@ -6,3 +6,6 @@
 - [sindresorhus/**boxen**](https://github.com/sindresorhus/boxen) - Create boxes in the terminal. **`component`** **`vanilla`**  
   ![](https://img.shields.io/github/stars/sindresorhus/boxen?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/sindresorhus/boxen?style=social&label=Update)
+- [chalk/**chalk**](https://github.com/chalk/chalk) - Terminal string styling done right. **`component`** **`vanilla`**  
+  ![](https://img.shields.io/github/stars/chalk/chalk?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/chalk/chalk?style=social&label=Update)
