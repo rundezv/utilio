@@ -6,3 +6,6 @@
 - [codingjerk/**appdirsjs**](https://github.com/codingjerk/appdirsjs) - A node.js library to get paths to directories to store configs, caches and data according to OS standarts. **`path`** **`file`** **`cross-platform`**  
   ![](https://img.shields.io/github/stars/codingjerk/appdirsjs?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/codingjerk/appdirsjs?style=social&label=Update)
+- [jcoreio/**promisify-child-process**](https://github.com/jcoreio/promisify-child-process) - seriously like the best async child process library. **`promise`**  
+  ![](https://img.shields.io/github/stars/jcoreio/promisify-child-process?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/jcoreio/promisify-child-process?style=social&label=Update)
