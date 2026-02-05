@@ -24,3 +24,6 @@
 - [antonmedv/**srf**](https://github.com/antonmedv/srf) - A file server. **`server`**  
   ![](https://img.shields.io/github/stars/antonmedv/srf?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/antonmedv/srf?style=social&label=Update)
+- [sindresorhus/**execa**](https://github.com/sindresorhus/execa) - Process execution for humans. **`api`** **`shell`** **`promise`** **`cross-platform`**  
+  ![](https://img.shields.io/github/stars/sindresorhus/execa?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sindresorhus/execa?style=social&label=Update)
