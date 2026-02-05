@@ -11,3 +11,4 @@
   ![](https://img.shields.io/github/last-commit/AllThingsSmitty/basic-design-patterns?style=social&label=Update)
 - **[Shibajuku Guidelines](https://guidelines.shibajuku.net)** - Guidelines for websites produced for projects and assignments within Shibajuku.
 - **[Sociomedia Human Interface Guidelines](https://www.sociomedia.co.jp/category/shig)** - These are guidelines for designing human interfaces compiled by Sociomedia. They have been independently compiled by Sociomedia based on various publications on interface design and insights gained through actual design consulting. They will be continuously added to and updated.
+- **[UX Psychology](https://www.shokasonjuku.com/ux-psychology)** - To improve the user experience, it is necessary to understand the psychology and biases that can influence decision-making. Below is a collection of psychological effects and design principles that influence UX.
