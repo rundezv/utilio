@@ -11,3 +11,6 @@
 - [minimaldesign/**mCSS**](https://github.com/minimaldesign/mCSS) - The library for CSS lovers.  
   ![](https://img.shields.io/github/stars/minimaldesign/mCSS?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/minimaldesign/mCSS?style=social&label=Update)
+- [hiloki/**flocss**](https://github.com/hiloki/flocss) - CSS organization methodology.  
+  ![](https://img.shields.io/github/stars/hiloki/flocss?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/hiloki/flocss?style=social&label=Update)
