@@ -24,3 +24,6 @@
 - [broofa/**mime**](https://github.com/broofa/mime) - Mime types for JavaScript. **`file`**  
   ![](https://img.shields.io/github/stars/broofa/mime?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/broofa/mime?style=social&label=Update)
+- [DoneDeal0/**superdiff**](https://github.com/DoneDeal0/superdiff) - Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance. **`array`** **`object`** **`stream`**  
+  ![](https://img.shields.io/github/stars/DoneDeal0/superdiff?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/DoneDeal0/superdiff?style=social&label=Update)
