@@ -27,3 +27,6 @@
 - [unadlib/**localspace**](https://github.com/unadlib/localspace) - A library that unifies the APIs of IndexedDB, localStorage and other storage into a consistent API. **`localstorage`** **`indexeddb`**  
   ![](https://img.shields.io/github/stars/unadlib/localspace?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/unadlib/localspace?style=social&label=Update)
+- [sqlite/**sqlite-wasm**](https://github.com/sqlite/sqlite-wasm) - SQLite Wasm conveniently wrapped as an ES Module. **`sqlite`**  
+  ![](https://img.shields.io/github/stars/sqlite/sqlite-wasm?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/sqlite/sqlite-wasm?style=social&label=Update)
