@@ -21,3 +21,6 @@
 - [jakearchibald/**idb-keyval**](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB. **`indexeddb`**  
   ![](https://img.shields.io/github/stars/jakearchibald/idb-keyval?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/jakearchibald/idb-keyval?style=social&label=Update)
+- [localForage/**localForage**](https://github.com/localForage/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. **`localstorage`** **`indexeddb`**  
+  ![](https://img.shields.io/github/stars/localForage/localForage?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/localForage/localForage?style=social&label=Update)
