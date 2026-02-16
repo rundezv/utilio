@@ -1,28 +1,23 @@
 # Data Handling
 
-## Document
-
-- [dolanmiu/**docx**](https://github.com/parallax/jsPDF) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.  
+- [dolanmiu/**docx**](https://github.com/dolanmiu/docx) - Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. **`office`** **`cross-platform`**  
   ![](https://img.shields.io/github/stars/dolanmiu/docx?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/dolanmiu/docx?style=social&label=Update)
-- [jmaister/**excellentexport**](https://github.com/jmaister/excellentexport) - Javascript export to Excel.  
+- [jmaister/**excellentexport**](https://github.com/jmaister/excellentexport) - Javascript export to Excel. **`office`** **`cross-platform`**  
   ![](https://img.shields.io/github/stars/jmaister/excellentexport?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/jmaister/excellentexport?style=social&label=Update)
-- [gitbrent/**PptxGenJS**](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.  
+- [gitbrent/**PptxGenJS**](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more. **`office`** **`cross-platform`**  
   ![](https://img.shields.io/github/stars/gitbrent/PptxGenJS?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/gitbrent/PptxGenJS?style=social&label=Update)
-- [parallax/**jsPDF**](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone.  
+- [parallax/**jsPDF**](https://github.com/parallax/jsPDF) - Client-side JavaScript PDF generation for everyone. **`pdf`** **`cross-platform`**  
   ![](https://img.shields.io/github/stars/parallax/jsPDF?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/parallax/jsPDF?style=social&label=Update)
-- [pdfslick/**pdfslick**](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps.  
+- [pdfslick/**pdfslick**](https://github.com/pdfslick/pdfslick) - View and Interact with PDFs in React, SolidJS, Svelte and JavaScript apps. **`pdf`**  
   ![](https://img.shields.io/github/stars/pdfslick/pdfslick?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/pdfslick/pdfslick?style=social&label=Update)
-
-## Storage
-
-- [jakearchibald/**idb**](https://github.com/jakearchibald/idb) - IndexedDB, but with promises.  
+- [jakearchibald/**idb**](https://github.com/jakearchibald/idb) - IndexedDB, but with promises. **`indexeddb`**  
   ![](https://img.shields.io/github/stars/jakearchibald/idb?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/jakearchibald/idb?style=social&label=Update)
-- [jakearchibald/**idb-keyval**](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB.  
+- [jakearchibald/**idb-keyval**](https://github.com/jakearchibald/idb-keyval) - A super-simple-small promise-based keyval store implemented with IndexedDB. **`indexeddb`**  
   ![](https://img.shields.io/github/stars/jakearchibald/idb-keyval?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/jakearchibald/idb-keyval?style=social&label=Update)
