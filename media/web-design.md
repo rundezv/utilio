@@ -26,6 +26,7 @@
 - **[URAGAWA](https://uragawa.work)** - Collection of web design galleries and reference sites where you can see the creativity of Japan's top-class production and business companies, including "which company made it.
 - **[デザインのこと](https://designnokoto.com)** - We collect domestic and international web designs, "stylish" websites that are responsive and easy to view on PCs, tablets, and smartphones.
 - **[サンカラム](https://sancolumn.com)** - We have put together a beautiful three-column, smarter, and smarter design that utilizes the smartphone layout directly on the PC.
+- **[81-web.com](https://81-web.com)** - 81-web.com is a gallery and collection of reference sites for exceptional Japanese web design and websites, useful for web development.
 - **[Awwwards](https://www.awwwards.com)** - The awards of design, creativity and innovation on the internet.
 - **[Siteinspire](https://www.siteinspire.com)** - Siteinspire is a showcase of the finest web and interactive design.
 - **[Httpster](https://httpster.net)** - The best website design inspiration. Get inspired by our gallery of creative design ideas and great examples of beautiful award-winning sites.
