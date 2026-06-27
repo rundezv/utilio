@@ -18,3 +18,6 @@
 - [fontsource/**fontsource**](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.  
   ![](https://img.shields.io/github/stars/fontsource/fontsource?style=social&label=Star)
   ![](https://img.shields.io/github/last-commit/fontsource/fontsource?style=social&label=Update)
+- [chenglou/**pretext**](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout.  
+  ![](https://img.shields.io/github/stars/chenglou/pretext?style=social&label=Star)
+  ![](https://img.shields.io/github/last-commit/chenglou/pretext?style=social&label=Update)
